@@ -12,6 +12,9 @@ curl "https://partners.dnaspaces.io/api/partners/v1/firehose/events" -H "X-API-K
   - If you are in europe the URL of DNA Spaces ends with _eu_ instead of _io_.
   - If you have a Cloud DNA Spaces APP instead of an on-prem, the activation and API key access is made in a different way.
 
+ Complete DNA Spaces Firehose API documentation available at http://partners.dnaspaces.io
+ To have access to the API it's required to ask support to activate it. It's not enabled by default.
+  
 -----------------------
 
 If you are looking for more DNA Spaces related code, I recommend visiting Simon Light github (https://github.com/SimonLight001)
