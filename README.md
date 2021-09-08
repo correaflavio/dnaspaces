@@ -8,7 +8,9 @@ With the API Key you can do the first try using curl:
 
 curl "https://partners.dnaspaces.io/api/partners/v1/firehose/events" -H "X-API-Key: <Your-API-Key>"
 
-**Note:** If you are in europe the URL of DNA Spaces ends with _eu_ instead of _io_.
+**Notes:** 
+  - If you are in europe the URL of DNA Spaces ends with _eu_ instead of _io_.
+  - If you have a Cloud DNA Spaces APP instead of an on-prem, the activation and API key access is made in a different way.
 
 -----------------------
 
